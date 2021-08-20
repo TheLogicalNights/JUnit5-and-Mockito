@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.spring.io</groupId>
-	<artifactId>JUnitMockitoDummyTestDouble</artifactId>
+	<artifactId>JUnitMockitoFakeTestDouble</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>JUnitMockitoDummyTestDouble</name>
+	<name>JUnitMockitoFakeestDouble</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
